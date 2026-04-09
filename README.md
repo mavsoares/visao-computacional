@@ -10,7 +10,7 @@ O script permite carregar o modelo treinado e realizar a detecção de armas de 
 ## Pré-requisitos
 
 ### Software necessário:
-- Python 3.9.11
+- Python 3.11.9
 - Git
 - VS Code (recomendado)
 - Conta no GitHub
